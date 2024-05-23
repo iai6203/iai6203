@@ -1,4 +1,4 @@
-<h3 align="center">소개</h3>
+<h3 align="center">✋ 소개 ✋</h3>
 <div align="center">
   <p>
     안녕하세요. 3년차 웹 개발자 김재석입니다.
