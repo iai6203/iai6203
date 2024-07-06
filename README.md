@@ -28,8 +28,3 @@
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
 </div>
-
-<h3 align="center">🌟 통계 🌟</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iai6203&count_private=true&show_icons=true" />
-</div>
