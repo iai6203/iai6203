@@ -1,7 +1,7 @@
 <h3 align="center">✋ 소개 ✋</h3>
 <div align="center">
   <p>
-    안녕하세요. 3년차 웹 개발자 김재석입니다.
+    안녕하세요. 5년차 웹 개발자 김재석입니다.
   </p>
 </div>
 
@@ -27,4 +27,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/RAG-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LangChain-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
