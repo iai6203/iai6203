@@ -29,6 +29,6 @@
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/RAG-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/LangChain-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/RAG-000000.svg?style=for-the-badge" />&nbsp
 </div>
