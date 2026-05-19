@@ -21,7 +21,8 @@
 </div>
 <h5 align="center">백엔드</h5>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-3a75b0.svg?style=for-the-badge&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-1F4361.svg?style=for-the-badge&logo=python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-3a75b0.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp
 </div>
 <div align="center">
