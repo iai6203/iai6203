@@ -27,8 +27,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flask-3178C6.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/RAG-000000.svg?style=for-the-badge" />&nbsp
 </div>
